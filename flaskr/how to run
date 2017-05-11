@@ -1,0 +1,5 @@
+for windows use set instead export
+
+export set FLASK_APP=flaskr
+export set FLASK_DEBUG=true
+flask run
